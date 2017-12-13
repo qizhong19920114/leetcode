@@ -4,6 +4,10 @@
 题目：https://leetcode.com/problems/sliding-window-maximum/  
 代码(github)：https://github.com/illuz/leetcode
 
+Video Demo: https://www.youtube.com/watch?v=ShbRCjvB_yQ
+
+So basically the deque keeps the largest on the left and the smallest on the right as we traverse through the array. And we check if the largest (the left most) is out of window or not before we preceed the comparison. at the end of each iteration we use the leftmost as the print output.
+
 ### **题意**：
 
 求一个数组中，固定大小的滑动窗口滑过，这个窗口中每一步的最大值。
