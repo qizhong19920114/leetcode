@@ -29,7 +29,7 @@ I have solved 229 / 279 problems.=w=
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
 | 001 | [001.Two_Sum (done)](https://leetcode.com/problems/Two-Sum/) | [Java&nbsp;Python&nbsp;C++](./solutions/001.Two_Sum) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/001.Two_Sum) |
-| 002 | [002.Add_Two_Numbers](https://leetcode.com/problems/Add-Two-Numbers/) | [C++&nbsp;Python&nbsp;Java](./solutions/002.Add_Two_Numbers) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/002.Add_Two_Numbers) |
+| 002 | [002.Add_Two_Numbers (skip)](https://leetcode.com/problems/Add-Two-Numbers/) | [C++&nbsp;Python&nbsp;Java](./solutions/002.Add_Two_Numbers) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/002.Add_Two_Numbers) |
 | 003 | [003.Longest_Substring_Without_Repeat...](https://leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/) | [Java&nbsp;Python&nbsp;C++](./solutions/003.Longest_Substring_Without_Repeating_Characters) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/003.Longest_Substring_Without_Repeating_Characters) |
 | 004 | [004.Median_of_Two_Sorted_Arrays](https://leetcode.com/problems/Median-of-Two-Sorted-Arrays/) | [Java&nbsp;Python&nbsp;C++](./solutions/004.Median_of_Two_Sorted_Arrays) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/004.Median_of_Two_Sorted_Arrays) |
 | 005 | [005.Longest_Palindromic_Substring](https://leetcode.com/problems/Longest-Palindromic-Substring/) | [Java&nbsp;Python&nbsp;C++](./solutions/005.Longest_Palindromic_Substring) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/005.Longest_Palindromic_Substring) |
